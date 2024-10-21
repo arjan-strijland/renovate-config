@@ -12,9 +12,5 @@
       "matchUpdateTypes": ["minor", "patch"],
       "automerge": true
     }
-  ],
-  "platform": "bitbucket",
-  "repositories": [
-    "arjan-strijland-axxes/poc-renovate"
   ]
 }
