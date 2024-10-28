@@ -2,7 +2,7 @@
   "enabled": true,
   "prHourlyLimit": 0,
   "prConcurrentLimit": 0,
-  "osvVulnerabilityAlerts": true
+  "osvVulnerabilityAlerts": true,
   "packageRules": [
     {
       "matchUpdateTypes": ["major"],
